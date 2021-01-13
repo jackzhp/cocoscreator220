@@ -1,0 +1,56 @@
+{
+  "group-list": [
+    "default"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Audio",
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Native Socket",
+    "Physics",
+    "ProgressBar",
+    "ParticleSystem",
+    "RichText",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive"
+  ],
+  "last-module-event-record-time": 1610355535090,
+  "design-resolution-width": 720,
+  "design-resolution-height": 1680,
+  "fit-width": true,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "743403f2-d56a-477d-a594-92c1e30263c9"
+}
